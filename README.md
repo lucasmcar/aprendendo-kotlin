@@ -75,3 +75,31 @@ val s1: String = "O rato roeu\na roupa do rei de \"Roma\"."
 ```
 
 # Kotlin - Aula 2 - Operadores
+
+```
+//Aritméticos
+
++ Adição
+- Subtração
+* Multiplicação
+/ Divisão
+% Módulo
+```
+
+```
+//Relacionais
+== Verifica igualdade entre valores
+!= Verfica diferença entre valores
+> Verifica se valor é maior
+< Verifica se é menor
+>= Verifica se valor é maior ou igual
+<= inverso do anterior
+```
+
+```
+//Lógico
+&& Somente é verdadeiro se as duas premissas forem verdadeiras 
+|| Apenas é falso se as duas premissas forem falsas
+! Negação (inverte valores booleanos) !true => false !false => true
+```
+
