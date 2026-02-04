@@ -103,3 +103,16 @@ val s1: String = "O rato roeu\na roupa do rei de \"Roma\"."
 ! Negação (inverte valores booleanos) !true => false !false => true
 ```
 
+```
+//Estrutura de seleção
+If como uma expressão que retorna valores
+val r = if(n % 2 == 0) { 
+   "Par" 
+}else {
+   "Impar"
+}
+```
+
+```
+when
+```
